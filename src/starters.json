@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Lemon chicken & rice",
+    "servings": 4,
+    "minutes": 35,
+    "color": "sage",
+    "ingredients": [
+      ["Chicken breast", 600],
+      ["Rice (dry)", 300],
+      ["Broccoli", 400],
+      ["Lemon", 1],
+      ["Olive oil", 20],
+      ["Garlic", 10]
+    ],
+    "instructions": "Cook the rice according to its packet.\nCut the chicken into strips and season to taste. Pan-fry in the olive oil until fully cooked.\nSteam the broccoli until tender.\nAdd crushed garlic, lemon zest and juice to the chicken. Serve with the rice and broccoli."
+  },
+  {
+    "name": "Salmon tray bake",
+    "servings": 4,
+    "minutes": 40,
+    "color": "peach",
+    "ingredients": [
+      ["Salmon", 600],
+      ["Potatoes", 800],
+      ["Cherry tomatoes", 250],
+      ["Olive oil", 20],
+      ["Lemon", 1],
+      ["Fresh dill", 15]
+    ],
+    "instructions": "Heat the oven to 200°C. Cut the potatoes into small pieces and toss with olive oil and seasoning.\nRoast the potatoes for about 25 minutes.\nAdd the salmon, tomatoes and lemon slices. Roast for another 12–15 minutes, or until the fish is cooked through and potatoes are tender.\nFinish with fresh dill."
+  },
+  {
+    "name": "Red lentil bolognese",
+    "servings": 4,
+    "minutes": 35,
+    "color": "sand",
+    "ingredients": [
+      ["Red lentils (dry)", 200],
+      ["Pasta (dry)", 320],
+      ["Crushed tomatoes", 800],
+      ["Carrots", 200],
+      ["Onion", 1],
+      ["Garlic", 10],
+      ["Olive oil", 15]
+    ],
+    "instructions": "Dice the onion and carrots. Soften in olive oil, then add crushed garlic.\nRinse the lentils and add to the pan with the tomatoes and enough water to simmer comfortably.\nSimmer for 20–25 minutes, adding water as needed, until the lentils are tender. Season to taste.\nCook the pasta according to its packet and serve with the sauce."
+  }
+]
